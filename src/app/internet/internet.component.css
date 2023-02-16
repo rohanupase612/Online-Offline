@@ -1,0 +1,15 @@
+.status.offline{
+  height: 600px;
+  width: 100%;
+  background-image: url("../../assets/offline.jpg");
+  /* background-color: rgb(231, 14, 14); */
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+}
+
+.status{
+  height: 20px;
+  /* background-color: #11d411; */
+  transition: 0s ease;
+}
